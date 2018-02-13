@@ -1,5 +1,4 @@
 # katria-test
 
-tst1 - good
+tst1
 test2
-test 3 - now bad
